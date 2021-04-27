@@ -1,3 +1,48 @@
+# Features for HornedBeasts app
+
+
+Number and name of feature:  #1: Display images
+
+Estimate of time needed to complete:1 hour
+
+Start time: 2:30
+
+Finish time: 3:30
+
+Actual time needed to complete: 1 hour and 30 mins
+
+
+
+Number and name of feature:  #2: Allow users to vote for their favorite beast
+
+Estimate of time needed to complete:1 hour
+
+Start time:3:30
+
+Finish time: 4:30
+
+Actual time needed to complete:30 min
+
+
+
+Number and name of feature:  # 3: Bootstrap
+
+Estimate of time needed to complete:1 hour
+
+Start time: 4:30
+
+Finish time: 5:30
+
+Actual time needed to complete: 1 hour
+
+
+
+
+
+
+<!-- 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -67,4 +112,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
