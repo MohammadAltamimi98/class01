@@ -14,7 +14,7 @@ class App extends React.Component{
        <Container fluid>
         <Header/>
         <br/>
-        <Main data={ListItem}/>
+        <Main data={ListItem} open={this.onOpen} close={this.onClose}/>
         <Footer/>
         </Container>
       </div>
